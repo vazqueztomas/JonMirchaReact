@@ -1,5 +1,6 @@
 import "./App.css";
 import CicloVida from "./components/CicloVida";
+import ComponentesEstilizados from "./components/ComponentesEstilizados";
 import Padre from "./components/ComunicacionComponentes";
 import {
   EventosES6,
@@ -30,8 +31,10 @@ function App() {
       <Referencias />
       <hr />
       <Formularios />
+      <hr/>
       <br />
       <br />
+      <ComponentesEstilizados/>
       <br />
       <br />
       <br />
